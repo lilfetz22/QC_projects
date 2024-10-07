@@ -11,3 +11,5 @@ Report Automation/supply_demand_summary_code.py
 Report Automation/staffing_model_rostering_times.ipynb
 Report Automation/redundant_capacity_code.py
 Report Automation/Opportunity_binary_classification_code.py
+ 
+.gitignore
