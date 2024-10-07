@@ -1,5 +1,4 @@
 # QC_projects
-Portfolio of projects
 
 ## Overview
 
