@@ -1,15 +1,1 @@
-SFTP automation/SFTP.ipynb
-Ops Plan & Planning Tool/assignment_distribution_planning.ipynb
-Ops Plan & Planning Tool/capacity_portion.py
-Ops Plan & Planning Tool/capbase_recreation.ipynb
-Ops Plan & Planning Tool/create_capbase.py
-Ops Plan & Planning Tool/Ops Plan - New SF.Rmd
-Ops Plan & Planning Tool/ops_data_pull_cleaned.sql
-Ops Plan & Planning Tool/Planning Tool R - New SF.Rmd
-Report Automation/PT displacement.ipynb
-Report Automation/supply_demand_summary_code.py
-Report Automation/staffing_model_rostering_times.ipynb
-Report Automation/redundant_capacity_code.py
-Report Automation/Opportunity_binary_classification_code.py
- 
-.gitignore
+
